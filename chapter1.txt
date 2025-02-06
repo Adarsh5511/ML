@@ -1,0 +1,8 @@
+Neuron Lead to Neurode MCP Neuron which could dasign logic gates like and or with some formula having appropriate threshold values
+formula f(y)={ 0,Z<theta   where x1,x2 are inputs ans z is summation of them 
+             {  1,Z>=Theta
+               
+EX: 1)AND-> x1,x2 belong to{0,1} now for thetha 2 it will always satisfy
+    2)OR-> x1,x2 belong to{0,1} now for thetha 1 it will always satisfy
+
+ 
